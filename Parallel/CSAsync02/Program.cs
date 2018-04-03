@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace CSAsync01
+namespace CSAsync02
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             Console.WriteLine("Main is running...");
-            Task aTask = MyTask();
+            await MyTask();
             Console.WriteLine("Main is finished, press RETURN to exit...");
             Console.ReadLine();
         }
