@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppOmp04", "CppOmp04\CppOmp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppThread04", "CppThread04\CppThread04.vcxproj", "{351CCA32-4187-406B-9C48-DFB48ADDCDE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSAsync05", "CSAsync05\CSAsync05.csproj", "{920B405A-330D-41BE-B9ED-897E616C9971}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,18 @@ Global
 		{351CCA32-4187-406B-9C48-DFB48ADDCDE4}.Release|x64.Build.0 = Release|x64
 		{351CCA32-4187-406B-9C48-DFB48ADDCDE4}.Release|x86.ActiveCfg = Release|Win32
 		{351CCA32-4187-406B-9C48-DFB48ADDCDE4}.Release|x86.Build.0 = Release|Win32
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|x64.Build.0 = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Debug|x86.Build.0 = Debug|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|x64.ActiveCfg = Release|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|x64.Build.0 = Release|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|x86.ActiveCfg = Release|Any CPU
+		{920B405A-330D-41BE-B9ED-897E616C9971}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
