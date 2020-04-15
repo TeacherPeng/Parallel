@@ -9,6 +9,7 @@ public class Example
         Console.WriteLine("Main thread does some work, then sleeps.");
         Thread.Sleep(1000);
         Console.WriteLine("Main thread exits.");
+        Console.ReadLine();
     }
     static void ThreadProc(Object stateInfo)
     {
